@@ -2,7 +2,7 @@
 
 **App:** Pettotec
 **Document version:** 1.0
-**Date:** August 25, 2026
+**Date:** September 6, 2026
 
 ---
 
@@ -12,7 +12,7 @@ These Terms of Use (the "Terms") govern your use of the mobile app "Pettotec" (t
 
 **Developer:** Aleksandr Aleksandrovich Rassykhaev
 **Location:** Russia, Saint Petersburg
-**Contact:** leenominai@gmail.com
+**Contact:** pettotec@yandex.ru
 
 By installing, opening, or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
@@ -54,7 +54,7 @@ The developer does not guarantee data recovery if your device fails, the App is 
 
 ## 5. Reminders and notifications
 
-The App may send local notifications about scheduled events. Reminders depend on device settings, OS permissions, and the accuracy of data you enter.
+The App may send **local** notifications about scheduled events — they are scheduled on the device without internet. Reminders depend on device settings, OS permissions (including a separate «Alarms & reminders» permission on Android for on-time delivery), and the accuracy of data you enter.
 
 The developer is not liable for missed reminders or delayed notifications.
 
@@ -120,4 +120,4 @@ Disputes are resolved in accordance with applicable law of the Russian Federatio
 
 For questions about these Terms:
 
-**Email:** leenominai@gmail.com
+**Email:** pettotec@yandex.ru

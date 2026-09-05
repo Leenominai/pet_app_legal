@@ -3,7 +3,7 @@
 Мобильное приложение для ухода за домашними животными.
 
 **Разработчик:** Рассыхаев Александр Александрович
-**Контакт:** [leenominai@gmail.com](mailto:leenominai@gmail.com)
+**Контакт:** [pettotec@yandex.ru](mailto:pettotec@yandex.ru)
 
 ## Документы
 

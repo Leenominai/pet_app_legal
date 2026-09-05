@@ -2,7 +2,7 @@
 
 **App:** Pettotec
 **Document version:** 1.0
-**Date:** August 25, 2026
+**Date:** September 6, 2026
 
 ---
 
@@ -12,7 +12,7 @@ This Privacy Policy describes what data the mobile app "Pettotec" (the "App") us
 
 **Developer:** Aleksandr Aleksandrovich Rassykhaev
 **Location:** Russia, Saint Petersburg
-**Contact:** leenominai@gmail.com
+**Contact:** pettotec@yandex.ru
 
 The App works offline-first: your data stays on your device. The developer does not receive, collect, or process your data on any server.
 
@@ -66,7 +66,8 @@ You are responsible for data you choose to share.
 
 The App may request the following system permissions:
 
-- **Notifications** — for feeding, medication, and event reminders;
+- **Local notifications** — reminders are scheduled on your device, without internet and without sending data to the developer; enabled in the App's Settings, with the system permission requested when you choose to turn them on;
+- **Exact reminders (Android)** — so feeding, medication, and event reminders arrive at the scheduled time; configured in the system «Alarms & reminders» section. Without this permission, reminders may be delayed;
 - **File access** — to create, import, and restore backups;
 - **Photo selection** — via the system image picker (the App does not access your entire gallery without your selection).
 
@@ -115,4 +116,4 @@ The developer may update this Policy. The current version is available in the Ap
 
 For privacy-related questions:
 
-**Email:** leenominai@gmail.com
+**Email:** pettotec@yandex.ru
